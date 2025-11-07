@@ -1,0 +1,12 @@
+Automatic Plant Watering System – Components List
+
+1. Arduino UNO
+2. Soil Moisture Sensor (Analog)
+3. 5V Relay Module
+4. Submersible Water Pump / DC Water Pump
+5. Jumper Wires (Male-to-Male / Male-to-Female)
+6. Breadboard
+7. External Power Supply (5V/9V depending on pump)
+8. USB Cable for Arduino
+9. Connecting Tube (optional)
+10. LED Indicator (optional)

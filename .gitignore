@@ -1,0 +1,22 @@
+# Arduino build files
+*.hex
+*.elf
+*.bin
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.log
+*.dmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.swp

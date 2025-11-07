@@ -19,9 +19,9 @@ This project automates the process of watering plants using a **soil moisture se
 1. The soil moisture sensor monitors the soil's humidity level.  
 2. When the soil becomes dry (below threshold), Arduino triggers the relay.  
 3. The relay switches on the water pump.  
-4. When soil moisture returns to normal, the pump automatically turns off.  
+4. When soil moisture returns to normal, the pump automatically turns off.
 
----
+![Circuit Diagram](Circuit/circuit_diagram.png)
 
 ## 💻 Arduino Code
 ```cpp
@@ -45,5 +45,3 @@ void loop() {
   }
   delay(1000);
 }
-
-![Circuit Diagram](Circuit/circuit_diagram.png)
